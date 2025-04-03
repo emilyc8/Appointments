@@ -1,0 +1,30 @@
+ET580 Project Documentation
+
+Instructions:
+A. Write the group number and full names of all active group members.
+B. Write the name of each file and who contributed.
+C. State ALL known problems or incomplete features of the project.
+D. In each .cpp file write a single line comment next to each function stating who contributed.
+-------------------------------------------------------------------------------------------
+
+A. Group Members:
+Group2: Toni Chen & Emily Cruz
+
+B. Files : Contributors
+1. Patient.cpp: Emily & Toni
+2. Patient.h: Emily
+3. Appointment.cpp: Toni & Emily
+4. Appointment.h: Toni
+5. Receptionist.cpp: Toni & Emily
+6. Receptionist.h:: Toni & Emily
+7. driver_phase1.cpp: Toni & Emily
+8. driver_phase2.cpp: Toni & Emily
+9. Appointment.csv: Toni
+10. Patient.csv: Toni
+11. Files.h: Toni & Emily
+12. 
+13. 
+14.
+15.
+
+C. Known Problems or Incomplete Code
